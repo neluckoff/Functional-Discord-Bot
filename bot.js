@@ -169,4 +169,4 @@ bot.on('message', (message) => {
 }) 
       
 
-bot.login('ODA1MTU1NTI4MzM4MTc4MDUw.YBWxhQ.hag-huZhzdOkZxWWti-GVWx3Zi4')
+bot.login('TOKEN')
